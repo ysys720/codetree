@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        double a = input.nextDouble();
+        System.out.println(String.format("%.3f",a));
+        double b = input.nextDouble();
+        System.out.println(String.format("%.3f",b));
+        double c = input.nextDouble();
+        System.out.println(String.format("%.3f",c));
+    }
+}
