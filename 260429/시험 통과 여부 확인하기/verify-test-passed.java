@@ -6,7 +6,7 @@ public class Main {
         if (N>=80) {
             System.out.print("pass");
         } else {
-            System.out.print(80-N+" ore score");
+            System.out.print(80-N+" more score");
         }
     }
 }
