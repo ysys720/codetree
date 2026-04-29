@@ -7,7 +7,7 @@ public class Main {
         String tem;
         if (n < 0) {
             tem = "ice";
-        } else if (n>100) {
+        } else if (n>=100) {
             tem = "vapor";
         } else {
             tem = "water";
