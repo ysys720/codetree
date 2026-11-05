@@ -3,6 +3,7 @@ public class Main {
         int a = 1;
         int b = 2;
         String c = "C";
-        System.out.printf("%d->%d->%s",a,b,c); 
+        System.out.printf("%d->%d->%s",a,b,c);
+        // Please write your code here.
     }
 }
